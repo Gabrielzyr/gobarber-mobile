@@ -29,6 +29,7 @@
         "prettier"
     ],
     "rules": {
+      "camelcase": "off",
       "react/prop-types": "off",
       "@typescript-eslint/no-unused-vars": "off",
       "no-unused-expressions": "off",
@@ -45,7 +46,12 @@
           "tsx": "never"
         }
       ],
-      "prettier/prettier": "error"
+      "prettier/prettier": [
+        "error",
+        {
+          "endOfLine": "auto"
+        }
+      ]
     },
     "settings": {
       "import/resolver": {
