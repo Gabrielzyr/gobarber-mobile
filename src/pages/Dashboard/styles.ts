@@ -1,4 +1,4 @@
-import { FlatList } from 'react-native-gesture-handler';
+import { FlatList, RectButton } from 'react-native-gesture-handler';
 import { getStatusBarHeight } from 'react-native-iphone-x-helper';
 import styled from 'styled-components/native';
 import { Provider } from '.';
@@ -85,3 +85,5 @@ export const ProviderMetaText = styled.Text`
   color: #999591;
   font-family: 'RobotoSlab-Regular';
 `;
+
+export const LogOutButton = styled(RectButton)``;
