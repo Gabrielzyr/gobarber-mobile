@@ -26,7 +26,7 @@
 
 ## 💻 Sobre o Gobarber
 
- Gobarber é uma aplicação desenvolvido durante o Bootcamp GoStack da [Rocketseat][rocketseat]. Na aplicação é possível crias sua conta e fazer um agendamento com um dos babeiros disponíveis..
+ Gobarber é uma aplicação desenvolvido durante o Bootcamp GoStack da [Rocketseat][rocketseat]. Na aplicação é possível crias sua conta e fazer um agendamento com um dos barbeiros disponíveis.
 
 
 ![Gif-GoBarber](https://github.com/Gabrielzyr/gobarber-mobile/blob/master/Gobarbergif.gif)
