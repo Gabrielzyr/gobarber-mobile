@@ -10,20 +10,18 @@
 
   <img alt="NPM" src="https://img.shields.io/npm/v/npm?color=10&logo=10">
   <img alt="YARN" src="https://img.shields.io/badge/yarn-v1.22.4-brightgreen">
-  <img alt="Size" src="https://img.shields.io/github/repo-size/Gabrielzyr/nlw-3">
+  <img alt="Size" src="https://img.shields.io/github/repo-size/Gabrielzyr/gobarber-mobile">
 
   <a href="https://github.com/jpsoarxs/MH-3/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gabrielzyr/nlw-3">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gabrielzyr/gobarber-mobile">
   </a>
 
 </p>
 
 <p align="center">
-  <a href="#information_source-Sobre-o-Gobarber-">Gobarber</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How to use</a>
-  <!-- <a href="#memo-license">License</a> -->
+  <a href="#-sobre-o-gobarber">Gobarber</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como usar</a>
 </p>
 
 ## 💻 Sobre o Gobarber
@@ -31,12 +29,12 @@
  Gobarber é uma aplicação desenvolvido durante o Bootcamp GoStack da [Rocketseat][rocketseat]. Na aplicação é possível crias sua conta e fazer um agendamento com um dos babeiros disponíveis..
 
 
-![Gif-GoBarber](https://github.com/Gabrielzyr/nlw-3/blob/master/Gobarbergif.gif)
+![Gif-GoBarber](https://github.com/Gabrielzyr/gobarber-mobile/blob/master/Gobarbergif.gif)
 
 
-## 💻 Technologies
+## 💻 Tecnologias
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React Native][reactnative]
 - [TypeScript][typescript]
@@ -50,9 +48,9 @@ This project was developed with the following technologies:
 - [Prettier][prettier]
 - [EditorConfig][editorConfig]
 
-## :information_source: Requisito
+## :information_source: Como usar
 
-Ter a [Api](https://github.com/Gabrielzyr/Gobarber) rodando no computador
+Primeiro tenha a [Api](https://github.com/Gabrielzyr/Gobarber) rodando no computador.
 
 A partir de um terminal:
 
